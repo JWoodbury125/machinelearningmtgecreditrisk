@@ -1,0 +1,447 @@
+State,Year,Gross State Product(in billions),Real State Growth %
+Alabama,2017,210.9,1.7
+Alaska,2017,50.1,-1.9
+Arizona,2017,314.7,2.2
+Arkansas,2017,123.7,1.4
+California,2017,"2,711.80",2.6
+Colorado,2017,335,2.1
+Connecticut,2017,271.7,1.5
+Delaware,2017,72.4,1
+District of Columbia,2017,132.3,2.3
+Florida,2017,968,2.7
+Georgia,2017,548.4,2.7
+Hawaii,2017,87.3,2.2
+Idaho,2017,69.4,2
+Illinois,2017,815.5,1.4
+Indiana,2017,352.3,1.8
+Iowa,2017,183.3,1.4
+Kansas,2017,156.4,1
+Kentucky,2017,203.2,1.6
+Louisiana,2017,237.1,0.6
+Maine,2017,61.4,1.7
+Maryland,2017,391.4,1.6
+Massachusetts,2017,528,2.1
+Michigan,2017,504.9,2
+Minnesota,2017,345.3,1.7
+Mississippi,2017,110.4,1.3
+Missouri,2017,310.5,1.6
+Montana,2017,46.8,1
+Nebraska,2017,118.2,1.6
+Nevada,2017,153.7,2.3
+New Hampshire,2017,81.3,2.7
+New Jersey,2017,600.2,1.6
+New Mexico,2017,94.8,0.6
+New York,2017,"1,536.60",1.3
+North Carolina,2017,537,1.9
+North Dakota,2017,51,-2.6
+Ohio,2017,646.5,1.9
+Oklahoma,2017,183,-0.4
+Oregon,2017,236.8,2.9
+Pennsylvania,2017,746,1.5
+Rhode Island,2017,59.4,1.6
+South Carolina,2017,217.8,2.1
+South Dakota,2017,49.5,1.9
+Tennessee,2017,341.3,2.1
+Texas,2017,"1,645.10",1.1
+Utah,2017,163.3,2.7
+Vermont,2017,32,1.4
+Virginia,2017,509.6,1.2
+Washington,2017,491.7,3.1
+West Virginia,2017,74.5,0.4
+Wisconsin,2017,319.1,1.5
+Wyoming,2017,37.6,-1.1
+Guam,2017,5.7,1.2
+Virgin Islands,2017,3.76,0.2
+Puerto Rico,2017,103.2,-2.4
+,,,
+State,,,
+Alabama,2016,204.9,1.3
+Alaska,2016,50.7,-5
+Arizona,2016,303,2.1
+Arkansas,2016,120.7,0.8
+California,2016,2602.7,2.9
+Colorado,2016,323.7,2
+Connecticut,2016,263.4,1
+Delaware,2016,70.4,0.3
+District of Columbia,2016,126.8,2.4
+Florida,2016,926.8,3
+Georgia,2016,525.4,3
+Hawaii,2016,83.9,2.1
+Idaho,2016,67.3,1.8
+Illinois,2016,791.6,0.9
+Indiana,2016,341.9,1.5
+Iowa,2016,178.8,0.9
+Kansas,2016,153.3,0.2
+Kentucky,2016,197,1.3
+Louisiana,2016,235.1,-0.6
+Maine,2016,59.3,1.4
+Maryland,2016,378.3,1.3
+Massachusetts,2016,507.9,2
+Michigan,2016,487.2,1.8
+Minnesota,2016,335.1,1.3
+Mississippi,2016,107.7,0.8
+Missouri,2016,300.9,1.1
+Montana,2016,46,0.2
+Nebraska,2016,115.3,1.2
+Nevada,2016,147.5,2.4
+New Hampshire,2016,77.9,3
+New Jersey,2016,581.1,1.2
+New Mexico,2016,93.3,-0.5
+New York,2016,1488,0.8
+North Carolina,2016,517.9,1.6
+North Dakota,2016,52.1,-6.5
+Ohio,2016,625.7,1.7
+Oklahoma,2016,182.9,-2.3
+Oregon,2016,226.8,3.3
+Pennsylvania,2016,724.9,1.1
+Rhode Island,2016,57.4,1.2
+South Carolina,2016,209.7,2.1
+South Dakota,2016,48.1,1.7
+Tennessee,2016,328.8,2
+Texas,2016,1616.8,0.4
+Utah,2016,156.4,3
+Vermont,2016,31.1,0.8
+Virginia,2016,494.3,0.6
+Washington,2016,469.7,3.7
+West Virginia,2016,73.4,-0.9
+Wisconsin,2016,309.5,1.1
+Wyoming,2016,37.9,-3.6
+Guam,2016,5.7,0.4
+Puerto Rico,2016,105.03,-1.3
+Virgin Islands ,2016,3.872,0.9
+,,,
+State,,,
+Alabama,2015,200,1.1
+Alaska,2015,53.4,0.6
+Arizona,2015,291.4,1.4
+Arkansas,2015,118.7,0.2
+California,2015,2491.6,4.4
+Colorado,2015,313.3,3
+Connecticut,2015,256.3,2.2
+Delaware,2015,68.9,2.2
+District of Columbia,2015,121.1,1.6
+Florida,2015,883.9,3.6
+Georgia,2015,501.5,2.5
+Hawaii,2015,80.6,2.3
+Idaho,2015,65.5,2.2
+Illinois,2015,772.2,1
+Indiana,2015,333.4,0.8
+Iowa,2015,175.8,2.2
+Kansas,2015,151.8,2.2
+Kentucky,2015,191.9,1.1
+Louisiana,2015,238.1,0.5
+Maine,2015,57.3,1.1
+Maryland,2015,366.2,2.1
+Massachusetts,2015,488.1,3.7
+Michigan,2015,470.6,2.7
+Minnesota,2015,326.8,1.3
+Mississippi,2015,105.9,0.3
+Missouri,2015,292.7,1.4
+Montana,2015,45.8,2.1
+Nebraska,2015,113.5,0.3
+Nevada,2015,141.1,3.5
+New Hampshire,2015,74.3,2.1
+New Jersey,2015,564.4,1.6
+New Mexico,2015,93.2,1.7
+New York,2015,1445.6,1.2
+North Carolina,2015,499.7,2.7
+North Dakota,2015,55.9,-3.1
+Ohio,2015,607.3,1
+Oklahoma,2015,188,2.7
+Oregon,2015,216.5,4.5
+Pennsylvania,2015,708.4,2.6
+Rhode Island,2015,55.7,1.1
+South Carolina,2015,201.8,2.8
+South Dakota,2015,47.1,2.6
+Tennessee,2015,316.7,3.1
+Texas,2015,1611.2,4.5
+Utah,2015,149.1,4.3
+Vermont,2015,30.3,0.9
+Virginia,2015,481.7,2.4
+Washington,2015,446.4,2.9
+West Virginia,2015,73.4,0.4
+Wisconsin,2015,301.6,1.3
+Wyoming,2015,39.4,-0.3
+Guam,2015,5.7,0.4
+Virgin Islands,2015,3.765,0.2
+Puerto Rico,2015,103.14,-0.8
+,,,
+State,,,
+Alabama,2014,194.4,-0.1
+Alaska,2014,58.3,-3.3
+Arizona,2014,280.8,1.8
+Arkansas,2014,117.9,1.4
+California,2014,2349.3,3.7
+Colorado,2014,305.3,4.7
+Connecticut,2014,244.8,-0.6
+Delaware,2014,65.9,5.3
+District of Columbia,2014,116.3,1.5
+Florida,2014,832.3,2.6
+Georgia,2014,477.5,3
+Hawaii,2014,76.8,0.6
+Idaho,2014,63.3,2.4
+Illinois,2014,747.6,1.5
+Indiana,2014,324.4,2
+Iowa,2014,169.8,3.1
+Kansas,2014,147.6,1.4
+Kentucky,2014,185.7,0.4
+Louisiana,2014,242.1,1.7
+Maine,2014,55.3,1.6
+Maryland,2014,350.4,1.1
+Massachusetts,2014,459.1,1.7
+Michigan,2014,445.2,1.4
+Minnesota,2014,317,2.6
+Mississippi,2014,104.3,-1.2
+Missouri,2014,282,0.2
+Montana,2014,45.1,2.8
+Nebraska,2014,112.1,3.7
+Nevada,2014,132.7,1.3
+New Hampshire,2014,71.1,1.7
+New Jersey,2014,542.5,0.1
+New Mexico,2014,94.7,2.9
+New York,2014,1391.1,1.8
+North Carolina,2014,474.5,1.9
+North Dakota,2014,59.6,7.3
+Ohio,2014,591.5,2.7
+Oklahoma,2014,196.8,4.6
+Oregon,2014,203.3,1.6
+Pennsylvania,2014,684.8,1.9
+Rhode Island,2014,53.7,0.8
+South Carolina,2014,191.2,3
+South Dakota,2014,45.5,0.7
+Tennessee,2014,298.9,1.6
+Texas,2014,1614.1,3.7
+Utah,2014,140.5,3.3
+Vermont,2014,29.4,0.3
+Virginia,2014,459.1,0.1
+Washington,2014,425.1,2.8
+West Virginia,2014,74,0.9
+Wisconsin,2014,290.9,1.4
+Wyoming,2014,41.8,1.2
+Puerto Rico,2014,102.45,-1.8
+Guam,2014,5.5,1
+Virgin Islands,2014,3.67,-0.6
+,,,
+State,,,
+Alabama,2013,190.3,0.9
+Alaska,2013,59.8,-4.4
+Arizona,2013,270.5,0.5
+Arkansas,2013,114.5,2.9
+California,2013,2223.9,2.5
+Colorado,2013,286.8,3.2
+Connecticut,2013,241,-1.4
+Delaware,2013,61.1,-1.4
+District of Columbia,2013,111.9,-0.2
+Florida,2013,794.6,2.1
+Georgia,2013,454.2,1.4
+Hawaii,2013,74.6,1.1
+Idaho,2013,60.9,2.9
+Illinois,2013,721.9,-0.3
+Indiana,2013,311.2,2.4
+Iowa,2013,162.3,0.5
+Kansas,2013,143.5,0.2
+Kentucky,2013,181.1,0.9
+Louisiana,2013,234.6,-3.4
+Maine,2013,53.3,-0.6
+Maryland,2013,339.4,0.2
+Massachusetts,2013,442.1,-0.2
+Michigan,2013,429.6,1.4
+Minnesota,2013,304.1,2.1
+Mississippi,2013,103.5,0.6
+Missouri,2013,275.9,1.6
+Montana,2013,43.2,0.7
+Nebraska,2013,106.8,2.5
+Nevada,2013,128.2,0.5
+New Hampshire,2013,68.6,0.6
+New Jersey,2013,531.1,1.4
+New Mexico,2013,90.8,-1
+New York,2013,1330.2,-0.3
+North Carolina,2013,454.9,1.7
+North Dakota,2013,55,2.4
+Ohio,2013,564.7,1
+Oklahoma,2013,186,4.4
+Oregon,2013,196.6,-2
+Pennsylvania,2013,659.8,1.6
+Rhode Island,2013,52.2,0.4
+South Carolina,2013,181.6,2
+South Dakota,2013,44.6,1.1
+Tennessee,2013,288,1.6
+Texas,2013,1536.5,5.1
+Utah,2013,133.3,2.5
+Vermont,2013,28.7,-0.2
+Virginia,2013,449.2,0
+Washington,2013,405.6,2.4
+West Virginia,2013,72.1,0.5
+Wisconsin,2013,281.6,1.3
+Wyoming,2013,41,1
+Guam,2013,4.1,0.6
+Puerto Rico,2013,102.45,-0.1
+Virgin Islands,2013,3.785,-5.3
+,,,
+State,,,
+Alabama,2012,185.9,1
+Alaska,2012,60.9,5.3
+Arizona,2012,264.7,2.1
+Arkansas,2012,109.2,-0.1
+California,2012,2131.2,2.6
+Colorado,2012,272.8,2.1
+Connecticut,2012,239.5,-0.1
+Delaware,2012,60.6,-1.6
+District of Columbia,2012,109.7,0.2
+Florida,2012,764.1,0.8
+Georgia,2012,439.1,1.2
+Hawaii,2012,72.5,1.4
+Idaho,2012,58.1,0.2
+Illinois,2012,711.4,2
+Indiana,2012,300,0.3
+Iowa,2012,158.2,3.5
+Kansas,2012,141,0.6
+Kentucky,2012,177,0.7
+Louisiana,2012,241.4,0.1
+Maine,2012,52.6,-0.1
+Maryland,2012,332.5,0.4
+Massachusetts,2012,434.1,1.8
+Michigan,2012,416.7,1.9
+Minnesota,2012,292.9,1.4
+Mississippi,2012,101.4,2.2
+Missouri,2012,266.2,1
+Montana,2012,42.3,0.7
+Nebraska,2012,102,-0.7
+Nevada,2012,125.4,-1.4
+New Hampshire,2012,66.9,0.5
+New Jersey,2012,514.7,1.9
+New Mexico,2012,90.1,0.1
+New York,2012,1301,3.1
+North Carolina,2012,438.4,-0.3
+North Dakota,2012,52.5,22.2
+Ohio,2012,550.3,1.6
+Oklahoma,2012,174.3,5.6
+Oregon,2012,197,-2.9
+Pennsylvania,2012,637.9,1.6
+Rhode Island,2012,51,0.4
+South Carolina,2012,174.6,0.3
+South Dakota,2012,43.1,-0.9
+Tennessee,2012,278.3,3.1
+Texas,2012,1437.9,5.7
+Utah,2012,128,1.3
+Vermont,2012,28.2,-0.2
+Virginia,2012,441.1,0.6
+Washington,2012,388.9,2.9
+West Virginia,2012,71,-1.5
+Wisconsin,2012,272.4,1.4
+Wyoming,2012,40.2,-3.5
+Guam,2012,4.7,0.5
+Virgin Islands,2012,4.095,-15
+Puerto Rico,2012,101.56,0.5
+,,,
+State,,,
+Alabama,2011,180.7,1.1
+Alaska,2011,58.8,2.7
+Arizona,2011,254.2,1.8
+Arkansas,2011,107.3,2
+California,2011,"2,036.30",1.4
+Colorado,2011,262.7,1.4
+Connecticut,2011,234.2,-1.7
+Delaware,2011,59.9,2.4
+District of Columbia,2011,107.7,1.8
+Florida,2011,741.5,-0.6
+Georgia,2011,424.1,1.3
+Hawaii,2011,70,0.8
+Idaho,2011,56.7,-0.2
+Illinois,2011,679.8,1.9
+Indiana,2011,291.6,0.5
+Iowa,2011,148.8,1.9
+Kansas,2011,136.9,3.2
+Kentucky,2011,171.8,1.4
+Louisiana,2011,236.2,-5.3
+Maine,2011,51.5,-1.5
+Maryland,2011,324.8,2
+Massachusetts,2011,417.3,2.3
+Michigan,2011,399.4,2.6
+Minnesota,2011,282.4,2.2
+Mississippi,2011,97,-1.4
+Missouri,2011,257.2,-1.2
+Montana,2011,41.2,2.9
+Nebraska,2011,99.9,4.3
+Nevada,2011,124.4,0.5
+New Hampshire,2011,65.2,0.4
+New Jersey,2011,493.3,-0.9
+New Mexico,2011,89.3,0.3
+New York,2011,"1,229.70",0.5
+North Carolina,2011,428,1.2
+North Dakota,2011,42.2,11.1
+Ohio,2011,528.6,3.6
+Oklahoma,2011,163.9,5.1
+Oregon,2011,199.9,4.2
+Pennsylvania,2011,615.4,1.3
+Rhode Island,2011,49.7,-0.8
+South Carolina,2011,170.2,2.2
+South Dakota,2011,42.3,6.2
+Tennessee,2011,263.2,2.7
+Texas,2011,"1,344.70",3.6
+,2011,"15,517.90",1.6
+Utah,2011,124,2.7
+Vermont,2011,27.7,2.4
+Virginia,2011,429.2,0.7
+Washington,2011,370.1,0.8
+West Virginia,2011,70.9,2.1
+Wisconsin,2011,262.5,2.1
+Wyoming,2011,41.5,-0.4
+Guam,2011,4,-0.6
+Virgin Islands,2011,3.85,-8.2
+Puerto Rico,2011,100.35,-1.7
+State,,,
+Alabama,2010,174.7,2.1
+Alaska,2010,54.1,-1.6
+Arizona,2010,245.7,0.2
+Arkansas,2010,103,3.4
+California,2010,"1,965.90",1.3
+Colorado,2010,253.4,0.6
+Connecticut,2010,234.5,-0.5
+Delaware,2010,57.5,-1.4
+District of Columbia,2010,103.8,3.3
+Florida,2010,735.1,0.8
+Georgia,2010,412.5,0.9
+Hawaii,2010,68.2,3.1
+Idaho,2010,55.3,0.9
+Illinois,2010,653.5,1.2
+Indiana,2010,282.3,6.5
+Iowa,2010,141.7,2.1
+Kansas,2010,128.5,2
+Kentucky,2010,166,4.5
+Louisiana,2010,232.6,4.7
+Maine,2010,51.5,1
+Maryland,2010,314,3.2
+Massachusetts,2010,402.7,3.5
+Michigan,2010,385,5.4
+Minnesota,2010,269.9,3.2
+Mississippi,2010,95.8,0.5
+Missouri,2010,255.9,1
+Montana,2010,38.4,3.6
+Nebraska,2010,92.2,4.3
+Nevada,2010,121.7,0.3
+New Hampshire,2010,64.2,2.4
+New Jersey,2010,489.1,0.5
+New Mexico,2010,86.1,0.4
+New York,2010,"1,204.70",3.5
+North Carolina,2010,416,1.1
+North Dakota,2010,36.2,8.3
+Ohio,2010,499,2.7
+Oklahoma,2010,149.9,0.2
+Oregon,2010,191.1,5.2
+Pennsylvania,2010,596.7,2.7
+Rhode Island,2010,49.4,2.3
+South Carolina,2010,164.1,1.5
+South Dakota,2010,38.2,1.5
+Tennessee,2010,252.5,1.5
+Texas,2010,"1,243.40",2.6
+Utah,2010,117.7,1.8
+Vermont,2010,26.6,3.4
+Virginia,2010,420.9,2.4
+Washington,2010,359.7,1.9
+West Virginia,2010,67.3,2.7
+Wisconsin,2010,252.9,2.5
+Wyoming,2010,39.1,-1.8
+Guam,2010,4.5,1.2
+Virgin Islands,2010,4.4,2.9
+Puerto Rico,2010,98.38,-3.6
